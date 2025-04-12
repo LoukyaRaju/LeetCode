@@ -41,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LoukyaRaju/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/LoukyaRaju/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LoukyaRaju/LeetCode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LoukyaRaju/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/LoukyaRaju/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/LoukyaRaju/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/LoukyaRaju/LeetCode/tree/master/0242-valid-anagram) |
 ## String
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/LoukyaRaju/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/LoukyaRaju/LeetCode/tree/master/0242-valid-anagram) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/LoukyaRaju/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
